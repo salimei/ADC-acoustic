@@ -1,0 +1,7 @@
+pipy.c:20:8:FIRFilter_Init	16	static
+pipy.c:31:8:FIRFilter_Filter	32	static
+pipy.c:45:7:Theta	16	static
+pipy.c:51:7:CrossCorrelation	64	static
+pipy.c:85:7:DoSum	24	static
+pipy.c:95:7:FindMax	24	static
+pipy.c:109:5:IndexFind	24	static
